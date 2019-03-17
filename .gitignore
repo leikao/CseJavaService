@@ -11,3 +11,5 @@ target/
 *.gz
 *.bz2
 *.tar.bz2
+
+*.iml

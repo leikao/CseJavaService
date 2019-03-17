@@ -1,0 +1,13 @@
+.idea
+log/
+logs/
+target/
+
+*.class
+
+*.zip
+*.rar
+*.tar.gz
+*.gz
+*.bz2
+*.tar.bz2
